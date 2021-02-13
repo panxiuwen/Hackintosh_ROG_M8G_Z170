@@ -18,9 +18,9 @@ Although CSM can't be turned off with VGA, it really doesn't matter.
 
 # Bootloader
 
-opencore version: 0.66
+Opencore version: 0.66
 
-clover referenced [This](https://github.com/Guanzj/6700k_z170_rx580_Hackintosh)
+Clover referenced [This](https://github.com/Guanzj/6700k_z170_rx580_Hackintosh)
 
 # Issue
 
