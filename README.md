@@ -10,7 +10,7 @@ Audio Adapter: Realtek ALCS1220A
 
 Gigabit LAN: Intel I219-V
 
-# bios setting
+# Bios setting
 
 Please follow this steps to set your bios [Tutorial](https://jingyan.baidu.com/article/90bc8fc822c5d8b752640c1c.html)
 
@@ -22,6 +22,6 @@ opencore version: 0.66
 
 clover referenced [This](https://github.com/Guanzj/6700k_z170_rx580_Hackintosh)
 
-# issue
+# Issue
 
 Not yet
