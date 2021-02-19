@@ -24,11 +24,13 @@ Opencore Version: 0.66
 
 System Edition: Mojave is well tested.
 
-# Characteristic
+# Optional
 
 Change the HD7750 to FirePro M4000 by replacing ID [Tutorial](https://zhuanlan.zhihu.com/p/351441674)
 
+If you want to enter debug mode, please add -v and keepsyms=1 to boot-args
 
+In order to drive R7 260X, add fake id 26669.
 
 # Issue
 
