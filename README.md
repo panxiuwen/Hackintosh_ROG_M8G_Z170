@@ -12,7 +12,7 @@ Gigabit LAN: Intel I219-V
 
 # Bios setting
 
-Please follow this steps to set your bios [Tutorial](https://jingyan.baidu.com/article/90bc8fc822c5d8b752640c1c.html)
+Please follow this steps to set your bios [Tutorial](https://jingyan.baidu.com/article/90bc8fc822c5d8b752640c1c.html).
 
 Fastboot, Legacy USB Support and USB Keyboard and Mouse Simulator must be turned off.
 
@@ -26,11 +26,11 @@ System Edition: Mojave is well tested.
 
 # Optional
 
-Change the HD7750 to FirePro M4000 by replacing ID [Tutorial](https://zhuanlan.zhihu.com/p/351441674)
+Change the HD7750 to FirePro M4000 by replacing ID [Tutorial](https://zhuanlan.zhihu.com/p/351441674).
 
 If you want to enter debug mode, please add -v and keepsyms=1 to boot-args
 
-In order to drive R7 260X, add fake id 26669.
+In order to drive R7 260X, add fake id 26669 [Details](https://www.it610.com/article/1304122155595763712.htm).
 
 # Issue
 
