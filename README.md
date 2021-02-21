@@ -21,6 +21,7 @@ If CSM can't be turned off, use UEFI only to boot is enough.
 # Possible errors
 
 If CFG lock is not turned off, the boot code will be stuck in the End RandomSeed+++
+
 If Legacy USB Support is not turned off, the boot code will be stuck in the HID：Legacy shim 2
 
 # Bootloader
