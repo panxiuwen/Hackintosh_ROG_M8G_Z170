@@ -14,9 +14,14 @@ Gigabit LAN: Intel I219-V
 
 Please follow this steps to set your bios [Tutorial](https://jingyan.baidu.com/article/90bc8fc822c5d8b752640c1c.html).
 
-Fastboot, Legacy USB Support and USB Keyboard and Mouse Simulator must be turned off.
+Fastboot, Legacy USB Support,CFG LOCK and USB Keyboard and Mouse Simulator must be turned off.
 
 If CSM can't be turned off, use UEFI only to boot is enough.
+
+# Possible errors
+
+If CFG lock is not turned off, the boot code will be stuck in the End RandomSeed+++
+If Legacy USB Support is not turned off, the boot code will be stuck in the HID：Legacy shim 2
 
 # Bootloader
 
