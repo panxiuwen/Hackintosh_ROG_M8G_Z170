@@ -2,7 +2,7 @@
 Hackintosh ROG MAXIMUS VIII GENE Z170
 
 # Hardware
-CPU: i3 9100f(B0)
+CPU: Intel Core i3 9100f(B0)
 
 GPU: Radeon HD7750 D51G 
 
